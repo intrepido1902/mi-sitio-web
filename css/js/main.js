@@ -1,1 +1,1 @@
-console.log("Archivo JS cargado correctamente");
+console.log("Archivo JS cargado correctamente desde la pagina");
